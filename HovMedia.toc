@@ -1,0 +1,15 @@
+## Interface: 110107
+
+## Title: |cff0d81f3HovMedia|r
+## Notes: Media files for HovUI
+## Version: 1.0
+## Author: Hov
+## URL: 
+## DefaultState: Enable
+## IconTexture: interface/icons/hunter_pvp_diamondice.blp
+
+Libs\LibStub.lua
+Libs\CallbackHandler-1.0.lua
+Libs\LibSharedMedia-3.0.lua
+
+HovMedia.lua
