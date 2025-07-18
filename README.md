@@ -1,2 +1,0 @@
-# HovMedia
-Media for HovUI
