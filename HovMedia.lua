@@ -5,6 +5,7 @@ local LSM = LibStub("LibSharedMedia-3.0")
 -- ----- 
 LSM:Register("statusbar","HovBar", [[Interface\Addons\HovMedia\StatusBars\HovBar]])
 LSM:Register("statusbar","Atrocity", [[Interface\Addons\HovMedia\StatusBars\Atrocity]])
+LSM:Register("statusbar","Melli", [[Interface\Addons\HovMedia\StatusBars\Melli]])
 -- ----- 
 --  BORDER 
 -- ---- 
@@ -13,6 +14,8 @@ LSM:Register("statusbar","Atrocity", [[Interface\Addons\HovMedia\StatusBars\Atro
 --   FONT
 -- -----
 LSM:Register("font", "Expressway", [[Interface\Addons\HovMedia\Fonts\Expressway.TTF]])
+LSM:Register("font", "GothamNarrowUltra", [[Interface\Addons\HovMedia\Fonts\GothamNarrowUltra.TTF]])
+LSM:Register("font", "AvantGrande", [[Interface\Addons\HovMedia\Fonts\AvantGrande.TTF]])
 -- -----
 --   SOUND
 -- -----
