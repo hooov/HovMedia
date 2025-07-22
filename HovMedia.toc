@@ -1,7 +1,7 @@
 ## Interface: 110105, 110107
 ## Title: |cff0d81f3HovMedia|r
 ## Notes: Media files for HovUI
-## Version: #HovMedia.20250725.101
+## Version: #HovMedia.20250725.102
 ## Author: Hov
 ## IconTexture: interface/icons/hunter_pvp_diamondice.blp
 
